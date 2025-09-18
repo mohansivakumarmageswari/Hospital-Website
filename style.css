@@ -73,7 +73,7 @@
     height: 450px;
     background-image: linear-gradient(aqua,rgb(3, 150, 150));
     padding: 50px;
-    margin: 10px;
+    margin: 0px;
     border-radius: 20px;
     position: relative;
     padding-top: 30px;
@@ -2308,4 +2308,5 @@
 .developer-submit button i {
     margin-left: 10px;
 }
+
 }
